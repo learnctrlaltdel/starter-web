@@ -12,5 +12,6 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, 
     jQuery, Modernizr
+    aws, googls cloud
