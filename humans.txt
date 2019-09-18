@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <ctrlaltdel> -- <twitter>
+    <name> -- <ctrlaltdel> -- 
 
 # THANKS
 
