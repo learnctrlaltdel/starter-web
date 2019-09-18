@@ -12,3 +12,6 @@ Fork the repo and raise pull request for review
 ## DUMMA
 We have done so much of work together
 I don't want these kind of headache
+
+#New lectures
+I have to complete them man... AAhh
