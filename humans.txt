@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <Mueez Ahamed> -- <twitter>
+    <name> -- <ctrlaltdel> -- <twitter>
 
 # THANKS
 
-    <name>
+    <ctrlaltdel>
+    <ctrlaltdel@gmail.com>
 
 # TECHNOLOGY COLOPHON
 
