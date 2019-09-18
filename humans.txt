@@ -15,3 +15,7 @@
     HTML5, 
     jQuery, Modernizr
     aws, googls cloud
+
+# This is to check the rebase
+
+	modifying the file before rebase
