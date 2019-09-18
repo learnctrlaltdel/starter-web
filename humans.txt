@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <ctrlaltdel> -- <twitter>
+    <name> -- <ctrlaltdel> -- 
 
 # THANKS
 
@@ -14,3 +14,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    Docker, Java programming
